@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/dharmik3.github.io/static/css/main.ebb83d93.chunk.css",
+    "main.js": "/dharmik3.github.io/static/js/main.31a5cb74.chunk.js",
+    "main.js.map": "/dharmik3.github.io/static/js/main.31a5cb74.chunk.js.map",
+    "runtime-main.js": "/dharmik3.github.io/static/js/runtime-main.6e0b3e88.js",
+    "runtime-main.js.map": "/dharmik3.github.io/static/js/runtime-main.6e0b3e88.js.map",
+    "static/css/2.58570433.chunk.css": "/dharmik3.github.io/static/css/2.58570433.chunk.css",
+    "static/js/2.8b5a10ed.chunk.js": "/dharmik3.github.io/static/js/2.8b5a10ed.chunk.js",
+    "static/js/2.8b5a10ed.chunk.js.map": "/dharmik3.github.io/static/js/2.8b5a10ed.chunk.js.map",
+    "index.html": "/dharmik3.github.io/index.html",
+    "precache-manifest.2446a2eb7a5814557cfa1ed05356c4fe.js": "/dharmik3.github.io/precache-manifest.2446a2eb7a5814557cfa1ed05356c4fe.js",
+    "service-worker.js": "/dharmik3.github.io/service-worker.js",
+    "static/css/2.58570433.chunk.css.map": "/dharmik3.github.io/static/css/2.58570433.chunk.css.map",
+    "static/css/main.ebb83d93.chunk.css.map": "/dharmik3.github.io/static/css/main.ebb83d93.chunk.css.map",
+    "static/media/bankist.png": "/dharmik3.github.io/static/media/bankist.2df3104c.png",
+    "static/media/style.css": "/dharmik3.github.io/static/media/foad_logo.fd00452f.jpg",
+    "static/media/guessNum.png": "/dharmik3.github.io/static/media/guessNum.28634f93.png",
+    "static/media/myBank.png": "/dharmik3.github.io/static/media/myBank.936368ee.png",
+    "static/media/omnifood.png": "/dharmik3.github.io/static/media/omnifood.0bb46bf1.png",
+    "static/media/pigGame.png": "/dharmik3.github.io/static/media/pigGame.7f6ef7c8.png",
+    "static/media/programmer1.png": "/dharmik3.github.io/static/media/programmer1.18d0ef12.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e0b3e88.js",
+    "static/css/2.58570433.chunk.css",
+    "static/js/2.8b5a10ed.chunk.js",
+    "static/css/main.ebb83d93.chunk.css",
+    "static/js/main.31a5cb74.chunk.js"
+  ]
+}
