@@ -10,7 +10,7 @@ import Project from "../pages/projects";
 
 export default function Nav() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route exact path="/" element={<Loading/>} />
         <Route path="/home" element={<Home/>} />
