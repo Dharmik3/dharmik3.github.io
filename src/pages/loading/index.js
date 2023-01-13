@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "../loading/style.css";
-import { Redirect } from "react-router-dom";
+// import { Link } from "react-bootstrap/lib/Navbar";
+import { Navigate} from "react-router-dom";
 import { Helmet } from "react-helmet";
 import PuffLoader from "react-spinners/PuffLoader";
 
@@ -10,16 +11,21 @@ class Loading extends Component {
   };
 
   componentDidMount() {
-    this.id = setTimeout(() => this.setState({ redirect: true }), 3000);
+    console.log(this.state.redirect);
+    this.id = setTimeout(() => this.setState({ redirect: true }), 2000);
+    console.log(this.state.redirect);
   }
 
   componentWillUnmount() {
     clearTimeout(this.id);
+    console.log(this.state.redirect);
+   
   }
 
   render() {
+    console.log(this.state.redirect);
     return this.state.redirect ? (
-      <Redirect to="/home" />
+      <Navigate to="/home" > </Navigate>
     ) : (
       <div>
         <Helmet>

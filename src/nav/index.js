@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Home from "../pages/home";
 import About from "../pages/about";
@@ -11,15 +11,15 @@ import Project from "../pages/projects";
 export default function Nav() {
   return (
     <Router>
-      <Switch>
-        <Route exact path="/" component={Loading} />
-        <Route path="/home" component={Home} />
-        <Route path="/about" component={About} />
-        <Route path="/skills" component={Skills} />
-        <Route path="/contact" component={Contact} />
-        <Route path="/project" component={Project} />
-        <Route path="*" component={Home} />
-      </Switch>
+      <Routes>
+        <Route exact path="/" element={<Loading/>} />
+        <Route path="/home" element={<Home/>} />
+        <Route path="/about" element={<About/>} />
+        <Route path="/skills" element={<Skills/>} />
+        <Route path="/contact" element={<Contact/>} />
+        <Route path="/project" element={<Project/>} />
+        <Route path="*" element={<Home/>} />
+      </Routes>
     </Router>
   );
 }
