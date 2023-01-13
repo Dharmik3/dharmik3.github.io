@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dharmik3.github.io/static/css/main.ebb83d93.chunk.css",
-    "main.js": "/dharmik3.github.io/static/js/main.04d84b0c.chunk.js",
-    "main.js.map": "/dharmik3.github.io/static/js/main.04d84b0c.chunk.js.map",
+    "main.js": "/dharmik3.github.io/static/js/main.aaacf86f.chunk.js",
+    "main.js.map": "/dharmik3.github.io/static/js/main.aaacf86f.chunk.js.map",
     "runtime-main.js": "/dharmik3.github.io/static/js/runtime-main.6e0b3e88.js",
     "runtime-main.js.map": "/dharmik3.github.io/static/js/runtime-main.6e0b3e88.js.map",
     "static/css/2.58570433.chunk.css": "/dharmik3.github.io/static/css/2.58570433.chunk.css",
-    "static/js/2.4a98266c.chunk.js": "/dharmik3.github.io/static/js/2.4a98266c.chunk.js",
-    "static/js/2.4a98266c.chunk.js.map": "/dharmik3.github.io/static/js/2.4a98266c.chunk.js.map",
+    "static/js/2.77b05346.chunk.js": "/dharmik3.github.io/static/js/2.77b05346.chunk.js",
+    "static/js/2.77b05346.chunk.js.map": "/dharmik3.github.io/static/js/2.77b05346.chunk.js.map",
     "index.html": "/dharmik3.github.io/index.html",
-    "precache-manifest.6168f8f2ea574ca276ec38d5220a0fb8.js": "/dharmik3.github.io/precache-manifest.6168f8f2ea574ca276ec38d5220a0fb8.js",
+    "precache-manifest.465bf0e36eb35d38e3a15cbf0d827eb3.js": "/dharmik3.github.io/precache-manifest.465bf0e36eb35d38e3a15cbf0d827eb3.js",
     "service-worker.js": "/dharmik3.github.io/service-worker.js",
     "static/css/2.58570433.chunk.css.map": "/dharmik3.github.io/static/css/2.58570433.chunk.css.map",
     "static/css/main.ebb83d93.chunk.css.map": "/dharmik3.github.io/static/css/main.ebb83d93.chunk.css.map",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.6e0b3e88.js",
     "static/css/2.58570433.chunk.css",
-    "static/js/2.4a98266c.chunk.js",
+    "static/js/2.77b05346.chunk.js",
     "static/css/main.ebb83d93.chunk.css",
-    "static/js/main.04d84b0c.chunk.js"
+    "static/js/main.aaacf86f.chunk.js"
   ]
 }
