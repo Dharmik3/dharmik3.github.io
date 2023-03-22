@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/dharmik3.github.io/static/css/main.ebb83d93.chunk.css",
-    "main.js": "/dharmik3.github.io/static/js/main.660fc409.chunk.js",
-    "main.js.map": "/dharmik3.github.io/static/js/main.660fc409.chunk.js.map",
+    "main.js": "/dharmik3.github.io/static/js/main.cee21b57.chunk.js",
+    "main.js.map": "/dharmik3.github.io/static/js/main.cee21b57.chunk.js.map",
     "runtime-main.js": "/dharmik3.github.io/static/js/runtime-main.6e0b3e88.js",
     "runtime-main.js.map": "/dharmik3.github.io/static/js/runtime-main.6e0b3e88.js.map",
     "static/css/2.58570433.chunk.css": "/dharmik3.github.io/static/css/2.58570433.chunk.css",
-    "static/js/2.2476181e.chunk.js": "/dharmik3.github.io/static/js/2.2476181e.chunk.js",
-    "static/js/2.2476181e.chunk.js.map": "/dharmik3.github.io/static/js/2.2476181e.chunk.js.map",
+    "static/js/2.77b05346.chunk.js": "/dharmik3.github.io/static/js/2.77b05346.chunk.js",
+    "static/js/2.77b05346.chunk.js.map": "/dharmik3.github.io/static/js/2.77b05346.chunk.js.map",
     "index.html": "/dharmik3.github.io/index.html",
-    "precache-manifest.b63c5fd60276054279f5242510b3ec91.js": "/dharmik3.github.io/precache-manifest.b63c5fd60276054279f5242510b3ec91.js",
+    "precache-manifest.c84b51e6afe56b40b2c969d7e2524cbd.js": "/dharmik3.github.io/precache-manifest.c84b51e6afe56b40b2c969d7e2524cbd.js",
     "service-worker.js": "/dharmik3.github.io/service-worker.js",
     "static/css/2.58570433.chunk.css.map": "/dharmik3.github.io/static/css/2.58570433.chunk.css.map",
     "static/css/main.ebb83d93.chunk.css.map": "/dharmik3.github.io/static/css/main.ebb83d93.chunk.css.map",
-    "static/media/Dharmik_Patel_Resume.pdf": "/dharmik3.github.io/static/media/Dharmik_Patel_Resume.3c164cd8.pdf",
     "static/media/bankist.png": "/dharmik3.github.io/static/media/bankist.2df3104c.png",
     "static/media/style.css": "/dharmik3.github.io/static/media/foad_logo.fd00452f.jpg",
     "static/media/guessNum.png": "/dharmik3.github.io/static/media/guessNum.28634f93.png",
@@ -25,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.6e0b3e88.js",
     "static/css/2.58570433.chunk.css",
-    "static/js/2.2476181e.chunk.js",
+    "static/js/2.77b05346.chunk.js",
     "static/css/main.ebb83d93.chunk.css",
-    "static/js/main.660fc409.chunk.js"
+    "static/js/main.cee21b57.chunk.js"
   ]
 }
