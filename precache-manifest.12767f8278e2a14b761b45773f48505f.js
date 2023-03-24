@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84d698ea7de2d9d14085829ff373dcc6",
+    "revision": "0dbe4958f641bf05a2e859a05c9f8a5a",
     "url": "/dharmik3.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dharmik3.github.io/static/css/2.58570433.chunk.css"
   },
   {
-    "revision": "c2d23bb98f23948c5141",
+    "revision": "9cedad27e98beba06a60",
     "url": "/dharmik3.github.io/static/css/main.ebb83d93.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dharmik3.github.io/static/js/2.77b05346.chunk.js"
   },
   {
-    "revision": "c2d23bb98f23948c5141",
-    "url": "/dharmik3.github.io/static/js/main.bb7d37b0.chunk.js"
+    "revision": "9cedad27e98beba06a60",
+    "url": "/dharmik3.github.io/static/js/main.129bf598.chunk.js"
   },
   {
     "revision": "3731185465408b2cd518",
