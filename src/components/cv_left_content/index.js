@@ -3,7 +3,7 @@ import '../cv_left_content/style.css';
 import Bounce from 'react-reveal/Bounce';
 import Fade from 'react-reveal/Fade';
 import { Button} from 'react-bootstrap';
-
+import resume from '../../assets/Dharmik_Patel_Resume.pdf'
 const ColoredLine = ({ color }) => (
   <hr
       style={{
@@ -48,11 +48,13 @@ class CLC extends Component {
                 <p className="resume-heading">
                   Open to opportunities and challenges.
                 </p>
+                <a href={resume}>
                 <div className="resume-download">
                   <Button variant="primary" className="resume-btn">
                     RESUME
                   </Button>
-                </div>
+                  </div>
+                </a>
               </div>
             </Fade>
           </div>
