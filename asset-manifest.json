@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.3c58cc0b.chunk.css",
-    "main.js": "/static/js/main.768658dd.chunk.js",
-    "main.js.map": "/static/js/main.768658dd.chunk.js.map",
+    "main.js": "/static/js/main.2e3e96ac.chunk.js",
+    "main.js.map": "/static/js/main.2e3e96ac.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f180add5.js",
     "runtime-main.js.map": "/static/js/runtime-main.f180add5.js.map",
     "static/css/2.58570433.chunk.css": "/static/css/2.58570433.chunk.css",
-    "static/js/2.77b05346.chunk.js": "/static/js/2.77b05346.chunk.js",
-    "static/js/2.77b05346.chunk.js.map": "/static/js/2.77b05346.chunk.js.map",
+    "static/js/2.2476181e.chunk.js": "/static/js/2.2476181e.chunk.js",
+    "static/js/2.2476181e.chunk.js.map": "/static/js/2.2476181e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d67895f9e60914915060ff377940e7a5.js": "/precache-manifest.d67895f9e60914915060ff377940e7a5.js",
+    "precache-manifest.2deaaca9fbb6943bbfdbb2ac5f9cf93b.js": "/precache-manifest.2deaaca9fbb6943bbfdbb2ac5f9cf93b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.58570433.chunk.css.map": "/static/css/2.58570433.chunk.css.map",
     "static/css/main.3c58cc0b.chunk.css.map": "/static/css/main.3c58cc0b.chunk.css.map",
+    "static/media/Dharmik_Patel_Resume.pdf": "/static/media/Dharmik_Patel_Resume.3c164cd8.pdf",
     "static/media/bankist.png": "/static/media/bankist.2df3104c.png",
     "static/media/style.css": "/static/media/foad_logo.fd00452f.jpg",
     "static/media/guessNum.png": "/static/media/guessNum.28634f93.png",
@@ -24,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.f180add5.js",
     "static/css/2.58570433.chunk.css",
-    "static/js/2.77b05346.chunk.js",
+    "static/js/2.2476181e.chunk.js",
     "static/css/main.3c58cc0b.chunk.css",
-    "static/js/main.768658dd.chunk.js"
+    "static/js/main.2e3e96ac.chunk.js"
   ]
 }
