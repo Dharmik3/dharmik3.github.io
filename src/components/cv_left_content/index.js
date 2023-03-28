@@ -48,7 +48,7 @@ class CLC extends Component {
                 <p className="resume-heading">
                   Open to opportunities and challenges.
                 </p>
-                <a href={resume}>
+                <a style={{textDecoration:'none'}} href={resume} target="_blank">
                 <div className="resume-download">
                   <Button variant="primary" className="resume-btn">
                     RESUME
