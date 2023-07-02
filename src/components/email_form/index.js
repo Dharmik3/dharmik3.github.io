@@ -82,7 +82,7 @@ class Email_Form extends React.Component {
   render() {
     return (
       <Form onSubmit={this.handleSubmit.bind(this)} className="Contact-form">
-        <p className="contact-form-header">Contact Form</p>
+        <p className="contact-form-header"><strong className="yellow-heading">Contact</strong> Form</p>
         <FormGroup className="contact_input">
           <Form.Control
             type="email"

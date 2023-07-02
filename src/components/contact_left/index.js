@@ -8,7 +8,7 @@ function Contact_Left() {
     <div>
            <Row className="Contact-text">
               <Col xl={12}>
-              <h1 className="p-heading1">Get In Touch</h1>
+          <h1 className="p-heading1">Get In <strong className='yellow-heading'>Touch</strong></h1>
               <p className="p-heading2">
               Hola <strong>Visitor !!</strong><br />
               Thank you for bumping in. If you have any queries/ideas/projects, feel free to <strong>PING</strong> me.

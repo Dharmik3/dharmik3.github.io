@@ -3,7 +3,7 @@ import '../cv_left_content/style.css';
 import Bounce from 'react-reveal/Bounce';
 import Fade from 'react-reveal/Fade';
 import { Button} from 'react-bootstrap';
-import resume from '../../assets/Dharmik_Patel_Resume.pdf'
+import resume from '../../assets/img/Dharmik_Patel_Resume.pdf'
 const ColoredLine = ({ color }) => (
   <hr
       style={{
@@ -32,14 +32,14 @@ class CLC extends Component {
                 <p>
                   Hi <span>&#128075; </span>
                   <br />
-                  I'm Dharmik Patel. I’m currently in third year of Beachlor of
+                  I'm Dharmik Patel. I’m currently in final year of Beachlor of
                   Enginnering. I'm doing my undergrade in Information
                   Techonology from <b>GCET</b>.
                 </p>
                 <p>
                   I'm a <b>web developer</b>, geek and curious human besides
                   being an OpenSource enthusiast. I am efficient at frontend and
-                  currently learning backend in Node.js
+                  currently working in backend with Node.js
                 </p>
                 <p className="finalText">I love travel and watching cricket.</p>
               </div>

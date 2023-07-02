@@ -46,7 +46,7 @@ function CRI()
                             GCET.
                           </strong>
                           <br />
-                          CGPA : 9.6 out of 10
+                          CGPA : 9.42 out of 10
                           <br />
                         </p>
                       </div>

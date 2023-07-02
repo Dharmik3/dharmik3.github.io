@@ -4,7 +4,8 @@ import {
  Col,
 } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {  faTwitter, faInstagram, faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faTwitter, faGithub, faLinkedin,  } from '@fortawesome/free-brands-svg-icons';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 
 function SocialIcons() {
   return (
@@ -25,11 +26,11 @@ function SocialIcons() {
         <FontAwesomeIcon className="twitter" icon={faTwitter} />
       </a>
       <a
-        href="https://www.instagram.com/dharmik._.3/"
+        href="mailto:dharmikpatel.pepalla@gmail.com"
         target="_blank"
         rel="noopener noreferrer"
       >
-        <FontAwesomeIcon className="insta" icon={faInstagram} />
+        <FontAwesomeIcon className="insta" icon={faEnvelope}  />
       </a>
       <a
         href="https://www.linkedin.com/in/dharmik3"
