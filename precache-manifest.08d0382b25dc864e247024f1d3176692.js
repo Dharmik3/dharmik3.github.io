@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80e1c05824e43a6c56833b77d3c2ee21",
+    "revision": "5648ee0ee029fbdc3f629b253ce6a6cd",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.58570433.chunk.css"
   },
   {
-    "revision": "57e8d12d4214043a7f6a",
+    "revision": "465ff5b0fdf7a25f7ef3",
     "url": "/static/css/main.52956937.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.76b71520.chunk.js"
   },
   {
-    "revision": "57e8d12d4214043a7f6a",
-    "url": "/static/js/main.eaaa609f.chunk.js"
+    "revision": "465ff5b0fdf7a25f7ef3",
+    "url": "/static/js/main.599a8795.chunk.js"
   },
   {
     "revision": "c9e12d71a4932cc6817f",
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bankist.2df3104c.png"
   },
   {
+    "revision": "03056e0036295e5033b5f1ab8dcc38f9",
+    "url": "/static/media/citylight.03056e00.png"
+  },
+  {
     "revision": "fd00452f3d9346b68e859d107edf5168",
     "url": "/static/media/foad_logo.fd00452f.jpg"
   },
   {
     "revision": "28634f939725644a1b02fb009721a19b",
     "url": "/static/media/guessNum.28634f93.png"
-  },
-  {
-    "revision": "936368ee3271ac913fbbe414e070a2c8",
-    "url": "/static/media/myBank.936368ee.png"
   },
   {
     "revision": "0bb46bf1b643b8968763f46b8a229025",
