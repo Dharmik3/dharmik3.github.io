@@ -9,7 +9,7 @@ import particles from '../../const/project_particle.js';
 import Particles from 'react-particles-js';
 import ProjectCard from "../../components/project_card";
 import omnifood from "../../assets/img/omnifood.png";
-import myBank from "../../assets/img/myBank.png";
+import citylight from "../../assets/img/citylight.png";
 import bankist from "../../assets/img/bankist.png";
 import pigGame from "../../assets/img/pigGame.png";
 import guessNum from "../../assets/img/guessNum.png";
@@ -43,6 +43,16 @@ class Projects extends Component {
               <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
                 <Col md={4} className="project-card">
                   <ProjectCard
+                    imgPath={citylight}
+                    isBlog={false}
+                    title="CityLight"
+                    description="CityLight is a restaurant app made with react that allows users to explore food items, add them to the cart, make payments through the Stripe payment gateway, and generate invoices for their orders. The app utilizes Firebase for storing data related to food items, user information, and the user's cart."
+                    ghLink="https://github.com/Dharmik3/CityLight"
+                    demoLink="https://restaurant-app-3.web.app/"
+                  />
+                </Col>
+                <Col md={4} className="project-card">
+                  <ProjectCard
                     imgPath={omnifood}
                     isBlog={false}
                     title="Omnifood"
@@ -52,16 +62,7 @@ class Projects extends Component {
                   />
                 </Col>
 
-                <Col md={4} className="project-card">
-                  <ProjectCard
-                    imgPath={myBank}
-                    isBlog={false}
-                    title="myBank"
-                    description="myBank is simply banking system which contains predefined accounts.This project build using HTML, CSS and js. User can able to transfer money to other account and see transaction history.User is automatically log out after 5 minutes."
-                    ghLink="https://github.com/Dharmik3/myBank"
-                    demoLink="https://dharmik3.github.io/myBank/"
-                  />
-                </Col>
+                
                 <Col md={4} className="project-card">
                   <ProjectCard
                     imgPath={pigGame}
