@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5648ee0ee029fbdc3f629b253ce6a6cd",
+    "revision": "bf3c83a4c7c00973607f43f9b2ddc321",
     "url": "/index.html"
   },
   {
@@ -8,24 +8,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.58570433.chunk.css"
   },
   {
-    "revision": "465ff5b0fdf7a25f7ef3",
-    "url": "/static/css/main.52956937.chunk.css"
+    "revision": "883414039c989cd186e4",
+    "url": "/static/css/main.4a98e2b9.chunk.css"
   },
   {
     "revision": "950b69020bb178b614ff",
     "url": "/static/js/2.76b71520.chunk.js"
   },
   {
-    "revision": "465ff5b0fdf7a25f7ef3",
-    "url": "/static/js/main.599a8795.chunk.js"
+    "revision": "883414039c989cd186e4",
+    "url": "/static/js/main.70193f72.chunk.js"
   },
   {
     "revision": "c9e12d71a4932cc6817f",
     "url": "/static/js/runtime-main.f180add5.js"
   },
   {
-    "revision": "1c134bdabca5e52f7c7f011abe648359",
-    "url": "/static/media/Dharmik_Patel_Resume.1c134bda.pdf"
+    "revision": "f8c9dcc173572a0591b300238a3d3e40",
+    "url": "/static/media/Dharmik_Patel_Resume.f8c9dcc1.pdf"
   },
   {
     "revision": "2df3104c113c14e2b36f103087a35431",
