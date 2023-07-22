@@ -8,10 +8,10 @@ import HamburgerMenu from '../../components/hamburger_menu';
 import particles from '../../const/project_particle.js';
 import Particles from 'react-particles-js';
 import ProjectCard from "../../components/project_card";
-import omnifood from "../../assets/img/omnifood.png";
+import omnifood from "../../assets/img/omnifood.jpeg";
 import citylight from "../../assets/img/citylight.png";
 import bankist from "../../assets/img/bankist.png";
-import pigGame from "../../assets/img/pigGame.png";
+import sociopedia from "../../assets/img/sociopedia.jpeg";
 import guessNum from "../../assets/img/guessNum.png";
 
 class Projects extends Component {
@@ -65,12 +65,12 @@ class Projects extends Component {
                 
                 <Col md={4} className="project-card">
                   <ProjectCard
-                    imgPath={pigGame}
+                    imgPath={sociopedia}
                     isBlog={false}
-                    title="Pig-Game"
-                    description="Pig game is very popular game for beginners level projects which I made with HTML, CSS, js. In this game there are two player. Player roll the dice until he gets 1 on dice, otherwise hold and gave chance to other player. "
-                    ghLink="https://github.com/Dharmik3/pig-game.io"
-                    demoLink="https://dharmik3.github.io/pig-game.io/"
+                    title="Sociopedia"
+                    description="This is a social media web application. It allows users to sign up, log in, post images with captions, make friends with other users, and like other users' posts and see their profile and modify it."
+                    ghLink="https://github.com/Dharmik3/sociopedia"
+                    demoLink="https://dharmik3.github.io/sociopedia"
                   />
                 </Col>
 
