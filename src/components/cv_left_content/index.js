@@ -3,7 +3,7 @@ import '../cv_left_content/style.css';
 import Bounce from 'react-reveal/Bounce';
 import Fade from 'react-reveal/Fade';
 import { Button} from 'react-bootstrap';
-import resume from '../../assets/img/Dharmik_Patel_Resume.pdf'
+import resume from '../../assets/img/Dharmik_Resume.pdf'
 const ColoredLine = ({ color }) => (
   <hr
       style={{
