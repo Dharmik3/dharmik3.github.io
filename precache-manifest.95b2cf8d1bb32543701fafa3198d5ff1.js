@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf3c83a4c7c00973607f43f9b2ddc321",
+    "revision": "43f88a40b6f4e6619955e3ca2e11b807",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.58570433.chunk.css"
   },
   {
-    "revision": "883414039c989cd186e4",
+    "revision": "3242553a07cb1638f1a7",
     "url": "/static/css/main.4a98e2b9.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.76b71520.chunk.js"
   },
   {
-    "revision": "883414039c989cd186e4",
-    "url": "/static/js/main.70193f72.chunk.js"
+    "revision": "3242553a07cb1638f1a7",
+    "url": "/static/js/main.6af20783.chunk.js"
   },
   {
     "revision": "c9e12d71a4932cc6817f",
     "url": "/static/js/runtime-main.f180add5.js"
   },
   {
-    "revision": "f8c9dcc173572a0591b300238a3d3e40",
-    "url": "/static/media/Dharmik_Patel_Resume.f8c9dcc1.pdf"
+    "revision": "182d59e83a6bc88685e9d578f3da965a",
+    "url": "/static/media/Dharmik_Resume.182d59e8.pdf"
   },
   {
     "revision": "2df3104c113c14e2b36f103087a35431",
@@ -44,15 +44,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/guessNum.28634f93.png"
   },
   {
-    "revision": "0bb46bf1b643b8968763f46b8a229025",
-    "url": "/static/media/omnifood.0bb46bf1.png"
-  },
-  {
-    "revision": "7f6ef7c81d9d8527a5ef6a30024942dc",
-    "url": "/static/media/pigGame.7f6ef7c8.png"
+    "revision": "f33b767cc23842fa2f3c8502e4923462",
+    "url": "/static/media/omnifood.f33b767c.jpeg"
   },
   {
     "revision": "18d0ef12ab13f84ffecdb92299a6bca0",
     "url": "/static/media/programmer1.18d0ef12.png"
+  },
+  {
+    "revision": "5f37862dce413846a4fd0c87194dc360",
+    "url": "/static/media/sociopedia.5f37862d.jpeg"
   }
 ]);
