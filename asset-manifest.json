@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.4a98e2b9.chunk.css",
-    "main.js": "/static/js/main.6af20783.chunk.js",
-    "main.js.map": "/static/js/main.6af20783.chunk.js.map",
+    "main.js": "/static/js/main.579e8a81.chunk.js",
+    "main.js.map": "/static/js/main.579e8a81.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f180add5.js",
     "runtime-main.js.map": "/static/js/runtime-main.f180add5.js.map",
     "static/css/2.58570433.chunk.css": "/static/css/2.58570433.chunk.css",
-    "static/js/2.76b71520.chunk.js": "/static/js/2.76b71520.chunk.js",
-    "static/js/2.76b71520.chunk.js.map": "/static/js/2.76b71520.chunk.js.map",
+    "static/js/2.b1187f74.chunk.js": "/static/js/2.b1187f74.chunk.js",
+    "static/js/2.b1187f74.chunk.js.map": "/static/js/2.b1187f74.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.95b2cf8d1bb32543701fafa3198d5ff1.js": "/precache-manifest.95b2cf8d1bb32543701fafa3198d5ff1.js",
+    "precache-manifest.fb0c8d0194c2c054401a550d5b461c70.js": "/precache-manifest.fb0c8d0194c2c054401a550d5b461c70.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.58570433.chunk.css.map": "/static/css/2.58570433.chunk.css.map",
     "static/css/main.4a98e2b9.chunk.css.map": "/static/css/main.4a98e2b9.chunk.css.map",
     "static/media/Dharmik_Resume.pdf": "/static/media/Dharmik_Resume.182d59e8.pdf",
     "static/media/bankist.png": "/static/media/bankist.2df3104c.png",
     "static/media/citylight.png": "/static/media/citylight.03056e00.png",
+    "static/media/codeeditor.png": "/static/media/codeeditor.bfd99e62.png",
     "static/media/style.css": "/static/media/foad_logo.fd00452f.jpg",
     "static/media/guessNum.png": "/static/media/guessNum.28634f93.png",
+    "static/media/imagetotext.png": "/static/media/imagetotext.aac14e5d.png",
+    "static/media/movieland.jpeg": "/static/media/movieland.2b99b1fd.jpeg",
     "static/media/omnifood.jpeg": "/static/media/omnifood.f33b767c.jpeg",
     "static/media/programmer1.png": "/static/media/programmer1.18d0ef12.png",
     "static/media/sociopedia.jpeg": "/static/media/sociopedia.5f37862d.jpeg"
@@ -25,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.f180add5.js",
     "static/css/2.58570433.chunk.css",
-    "static/js/2.76b71520.chunk.js",
+    "static/js/2.b1187f74.chunk.js",
     "static/css/main.4a98e2b9.chunk.css",
-    "static/js/main.6af20783.chunk.js"
+    "static/js/main.579e8a81.chunk.js"
   ]
 }
