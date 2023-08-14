@@ -42,11 +42,11 @@ function CRI()
                         <h2>Bachelor’s Degree (B.E)</h2>
                         <p className="edu-para">
                           <strong>
-                            I am currently doing Information Technology from
+                            I am currently in final year major in Information Technology from
                             GCET.
                           </strong>
                           <br />
-                          CGPA : 9.42 out of 10
+                          CGPA : 9.37 out of 10
                           <br />
                         </p>
                       </div>
