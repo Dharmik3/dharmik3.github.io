@@ -5,11 +5,11 @@ import {
   DiGit, DiGithubBadge,
 } from "react-icons/di";
 import {
-  SiVisualstudiocode,
   SiPostman,
   SiBitbucket,
 } from "react-icons/si";
-import {FiFigma} from 'react-icons/fi'
+import { BiLogoVisualStudio } from 'react-icons/bi'
+import { FiFigma } from 'react-icons/fi'
 
 function Toolset() {
   return (
@@ -18,21 +18,21 @@ function Toolset() {
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <BiLogoVisualStudio />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiBitbucket />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        < FiFigma/>
+        < FiFigma />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiGithubBadge />
-      </Col>
-    </Row>
+    <Col Col xs = { 4} md = { 2} className = "tech-icons" >
+      <DiGithubBadge />
+      </Col >
+    </Row >
   );
 }
 

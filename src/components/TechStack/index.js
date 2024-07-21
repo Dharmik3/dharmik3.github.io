@@ -3,7 +3,6 @@ import './style.css'
 import { Col, Row } from "react-bootstrap";
 import {
   DiJava,
-  DiJavascript1,
   DiReact,
   DiNodejs,
   DiMongodb,
@@ -11,17 +10,15 @@ import {
   DiCss3,
   DiMysql,
   DiSass,
-  DiFirebase,
 } from "react-icons/di";
 import {
   SiExpress,
-  SiMaterialui,
-  SiTailwindcss,
 } from "react-icons/si";
 import { IoLogoFirebase, IoLogoJavascript, } from 'react-icons/io5'
+import { BiLogoTailwindCss } from 'react-icons/bi'
 
 
-function Techstack() {
+export default function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
@@ -49,22 +46,18 @@ function Techstack() {
         <DiMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiTailwindcss />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiMaterialui />
+        <BiLogoTailwindCss />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        < DiSass />
+        <DiSass />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        < IoLogoFirebase />
+        <IoLogoFirebase />
       </Col>
     </Row>
   );
 }
 
-export default Techstack;
