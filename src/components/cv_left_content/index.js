@@ -2,23 +2,23 @@ import React, { Component } from 'react';
 import '../cv_left_content/style.css';
 import Bounce from 'react-reveal/Bounce';
 import Fade from 'react-reveal/Fade';
-import { Button} from 'react-bootstrap';
+import { Button } from 'react-bootstrap';
 import resume from '../../assets/img/Dharmik_Resume.pdf'
 const ColoredLine = ({ color }) => (
   <hr
-      style={{
-          color: color,
-          backgroundColor: color,
-          height: 1
-      }}
+    style={{
+      color: color,
+      backgroundColor: color,
+      height: 1
+    }}
   />
 );
 
 class CLC extends Component {
 
 
-  render(){
-    
+  render() {
+
     return (
       <Bounce>
         <div className="clc_main">
@@ -32,14 +32,14 @@ class CLC extends Component {
                 <p>
                   Hi <span>&#128075; </span>
                   <br />
-                  I'm Dharmik Patel. I’m currently in final year of Beachlor of
-                  Enginnering. I'm doing my undergrade in Information
-                  Techonology from <b>GCET</b>.
+                  I'm Dharmik Patel. I’m a Full-Stack Developer
                 </p>
                 <p>
-                  I'm a <b>web developer</b>, geek and curious human besides
-                  being an OpenSource enthusiast. I am efficient at frontend and
-                  currently working in backend with Node.js
+                  I'm a <b>Software Developer</b>, geek and curious human besides
+                  being an OpenSource enthusiast.</p>
+                <p>
+                  In my recent experience I was working as a Software Developer position, where I honed my skills and contributed to impactful projects for creating the database tool for Devops and Data team.
+                </p><p>My passion lies in creating user-friendly software and applications that drive engagement and satisfaction. I am committed to continuous learning and staying updated with the latest technologies.
                 </p>
                 <p className="finalText">I love travel and watching cricket.</p>
               </div>
@@ -48,11 +48,11 @@ class CLC extends Component {
                 <p className="resume-heading">
                   Open to opportunities and challenges.
                 </p>
-                <a style={{textDecoration:'none'}} href={resume} target="_blank">
-                <div className="resume-download">
-                  <Button variant="primary" className="resume-btn">
-                    RESUME
-                  </Button>
+                <a style={{ textDecoration: 'none' }} href={resume} target="_blank">
+                  <div className="resume-download">
+                    <Button variant="primary" className="resume-btn">
+                      RESUME
+                    </Button>
                   </div>
                 </a>
               </div>
@@ -63,7 +63,7 @@ class CLC extends Component {
     );
   }
 
-  
+
 }
 
 export default CLC;

@@ -222,7 +222,6 @@
   margin-left: 10px;
 }
 
-
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
   /* background: rgb(108, 108, 229); */
@@ -231,7 +230,6 @@
   -webkit-background-clip: padding-box;
   -moz-background-clip: padding;
   background-clip: padding-box;
- 
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label:after {
@@ -352,30 +350,35 @@
   bottom: 20px;
 }
 
-.cvl_header{
+.cvl_header {
   text-align: center;
-  font-family: 'Sulphur Point', sans-serif;
-  color:white ;
+  font-family: "Sulphur Point", sans-serif;
+  color: white;
 }
 
-.acd-year{
+.acd-year {
   font-size: 14px;
   margin-bottom: 4px;
 }
-.edu-para{
+.edu-para {
   margin-bottom: 0;
 }
-.box-1{
-  background:rgb(108, 108, 229);
+.box-1 {
+  background: #6c6ce5;
 }
-.box-2{
-  background:rgb(255, 76, 96);
+.box-2 {
+  background: #ff4c60;
 }
-h2{
+h2 {
   color: white;
 }
 @media (min-width: 320px) and (max-width: 426px) {
-  .timeline-centered{
+  .timeline-centered {
     padding: 0 0 20px 10px;
   }
- }
+}
+
+.acd-year {
+  color: #d3d3d3;
+  opacity: 1 !important;
+}
