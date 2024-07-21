@@ -15,7 +15,7 @@ function Home_Left() {
           </h2>
           <h3>
             <ReactTypingEffect
-              text="Web Developer || Competitive Coder ... " //text=["Hello.", "World!"]
+              text="Software Developer || Learner..."
               className="typical"
               speed="100"
               eraseDelay="500000"
