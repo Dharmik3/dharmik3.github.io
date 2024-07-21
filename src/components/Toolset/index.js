@@ -1,16 +1,15 @@
 import React from "react";
 import "./style.css";
-import { Col, Row,  } from "react-bootstrap";
+import { Col, Row, } from "react-bootstrap";
 import {
-  
-  DiGit,
+  DiGit, DiGithubBadge,
 } from "react-icons/di";
 import {
-  SiLinux,
   SiVisualstudiocode,
   SiPostman,
-
+  SiBitbucket,
 } from "react-icons/si";
+import {FiFigma} from 'react-icons/fi'
 
 function Toolset() {
   return (
@@ -22,10 +21,16 @@ function Toolset() {
         <SiVisualstudiocode />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiLinux />
+        <SiBitbucket />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        < FiFigma/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGithubBadge />
       </Col>
     </Row>
   );
